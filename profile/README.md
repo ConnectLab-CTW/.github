@@ -43,7 +43,6 @@ O projeto propõe um ambiente de aprendizado prático, no qual os integrantes tr
 | Nicolas Madruga Sousa | Developer | [GitHub](https://github.com/nico-madruga) |
 
 </div>
----
 
 ## Desenvolvimento
 
@@ -59,7 +58,7 @@ A equipe trabalha de maneira conjunta na evolução do projeto, buscando manter 
 
 <!-- Atualize os ícones conforme as tecnologias adotadas no projeto -->
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas utilizadas"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,docker" alt="Ferramentas utilizadas"/>
 
 </div>
 
