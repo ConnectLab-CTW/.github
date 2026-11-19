@@ -11,6 +11,10 @@ Desenvolvimento colaborativo · Inovação · Tecnologia
 
 </div>
 
+## Contextualização
+
+O sistema será inicialmente destinado ao CentroWEG e ao SENAI, com o objetivo de aprimorar o gerenciamento do estoque do laboratório de química. A plataforma permitirá controlar os produtos químicos e as vidrarias utilizados nas atividades práticas, centralizando informações sobre cadastro, quantidade disponível, movimentações, validade e condições dos materiais. 
+
 ---
 
 ## Visão geral
@@ -58,7 +62,7 @@ A equipe trabalha de maneira conjunta na evolução do projeto, buscando manter 
 
 <!-- Atualize os ícones conforme as tecnologias adotadas no projeto -->
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,docker" alt="Ferramentas utilizadas"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,docker,figma" alt="Ferramentas utilizadas"/>
 
 </div>
 
