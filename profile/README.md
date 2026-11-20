@@ -84,11 +84,11 @@ A organização do repositório acompanha a evolução do projeto, mantendo os a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0B1120&height=120&section=footer" width="100%" alt="ConnectLab Footer"/>
-
 <p>
 <strong>ConnectLab</strong><br>
 Desenvolvido colaborativamente.
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0B1120&height=120&section=footer" width="100%" alt="ConnectLab Footer"/>
 
 </div>
