@@ -40,11 +40,11 @@ O projeto propõe um ambiente de aprendizado prático, no qual os integrantes tr
 
 | Integrante | Papel | Perfil |
 |:---|:---:|:---:|
-| Arthur Jardim Souza | Developer | [GitHub](https://github.com/ArthurJardimSouza) |
-| Camile Wengrznyek | Scrum Master | [GitHub](https://github.com/camilewng) |
-| Heitor Klimkowski | Developer | [GitHub](https://github.com/Heitorgkk) |
-| Marcus Vinícius Albus Arrué | Developer | [GitHub](https://github.com/MarcusAlbus) |
-| Nicolas Madruga Sousa | Developer | [GitHub](https://github.com/nico-madruga) |
+| Arthur Jardim Souza | Developer | [ArthurJardimSouza](https://github.com/ArthurJardimSouza) |
+| Camile Wengrznyek | Scrum Master | [camilewng](https://github.com/camilewng) |
+| Heitor Klimkowski | Developer | [Heitorgkk](https://github.com/Heitorgkk) |
+| Marcus Vinícius Albus Arrué | Developer | [MarcusAlbus](https://github.com/MarcusAlbus) |
+| Nicolas Madruga Sousa | Developer | [nico-madruga](https://github.com/nico-madruga) |
 
 </div>
 
