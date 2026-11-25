@@ -62,7 +62,7 @@ A equipe trabalha de maneira conjunta na evolução do projeto, buscando manter 
 
 <!-- Atualize os ícones conforme as tecnologias adotadas no projeto -->
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,docker,git,github,idea,html,css,js,react,vite,bootstrap,git,vscode" alt="Tecnologias utilizadas"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,docker,git,github,idea,html,css,js,react,vite,bootstrap,git,vscode&perline=4" alt="Tecnologias utilizadas"/>
 
 </div>
 
