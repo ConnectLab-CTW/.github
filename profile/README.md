@@ -70,7 +70,7 @@ A equipe trabalha de maneira conjunta na evolução do projeto, buscando manter 
 
 ## Estrutura
 
-A organização dos repositórios é dividida entre Backend, Frontend e Documentações acompanhando a evolução do projeto, mantendo os arquivos de código, documentação e demais recursos estruturados de acordo com suas responsabilidades.
+A organização dos repositórios é dividida entre Backend, Frontend e Documentações acompanhando a evolução do projeto e mantendo os arquivos de código, documentação e demais recursos estruturados de acordo com suas responsabilidades.
 
 ---
 
